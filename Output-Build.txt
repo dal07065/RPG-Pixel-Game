@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: New Unity Project, Configuration: Debug Any CPU ------
+1>  New Unity Project -> C:\Users\soonae\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+2>------ Build started: Project: New Unity Project.Editor, Configuration: Debug Any CPU ------
+2>  New Unity Project.Editor -> C:\Users\soonae\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
